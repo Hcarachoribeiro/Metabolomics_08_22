@@ -60,7 +60,7 @@ Análise de correlação parcial utilizando dados sPLS-DA multibloco, dados demo
 
 Gráficos de beanplots para ambos os conjuntos de dados. Altere o conjunto de dados de entrada (proteínas/metabólitos) de acordo no script para avaliar cada conjunto de dados. O output são os gráficos de beanplots de cada conjunto de dados omicos.
 
-#### Metabolomics R object and selected variables from multiblock analysis >> Logistic_regression_Metabolites_final.R
+#### Conjunto de dados de metabolômica e variáveis selecionadas na análise multibloco >> Logistic_regression_Metabolites_final.R
 
 Regressão logística para o conjunto de dados de metabolômica. Note que usamos o conjunto de dados de metabolômica estendido aqui, já que analisamos mais amostras do que o conjunto de dados de proteômica. Este script faz uso das variáveis selecionadas nos gráficos de beanplots (Snom.sign.pval.ttest), portanto siga a ordem proposta aqui.
 Observe que, na função cv.glmnet, alterar os valores alpha entre 0 e 1 determina o tipo de regressão logística (ridge = 0 / LASSO = 1).
