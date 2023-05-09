@@ -1,5 +1,9 @@
 # Metabolomics_08_22
-Scripts used to perform the statistical analysis conatained in the article "Metabolomic and proteomic profiling in bipolar disorder patients revealed potential molecular signatures related to hemostasis". Metabolomics, 18(65). https://doi.org/10.1007/s11306-022-01924-5
+Scripts used to perform the statistical analysis conatained in the article "Metabolomic and proteomic profiling in bipolar disorder patients revealed potential molecular signatures related to hemostasis". Ribeiro, H. C., Sen, P., Dickens, A., Santa Cruz, E. C., Orešič, M., & Sussulini, A. (2022). Metabolomics, 18(65). https://doi.org/10.1007/s11306-022-01924-5
+
+The proteomic data used was obtained in a previous work from our group. For more information, please refer to :
+Santa Cruz, E. C., Zandonadi, F. S., Fontes, W., & Sussulini, A. (2021). A pilot study indicating the dysregulation of the complement and coagulation cascades in treated schizophrenia and bipolar disorder patients. Biochimica Et Biophysica Acta (BBA) - Proteins and Proteomics, 1869(8), 140657. https://doi.org/10.1016/j.bbapap.2021.140657
+
 
 ################## ENGLISH ########################
 
